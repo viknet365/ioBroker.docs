@@ -1,5 +1,5 @@
 ---
-title: installation
+title: Windows
 lastChanged: 18.07.2019
 translatedFrom: de
 translatedWarning: If you want to edit this document please delete "translatedFrom" field, elsewise this document will be translated automatically again
